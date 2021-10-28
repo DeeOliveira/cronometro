@@ -1,0 +1,35 @@
+
+@import url('//fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+*{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.voltas{
+    font-size: 64px;
+    font-weight: bold;
+}
+
+.voltas span{
+    font-size: 100px;
+}
+
+button{
+    background-color: deepskyblue;
+    font-weight: bold;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.tempo span{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.tempo{
+    font-size: 25px;
+    font-weight: bold;
+}
